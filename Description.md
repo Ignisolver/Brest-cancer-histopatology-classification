@@ -1,0 +1,2 @@
+## Naming
+`<class>_<id>[]`

@@ -1,0 +1,6 @@
+Inne/
+.venv/
+.idea/
+__pycache__/
+MAIN/models/
+MAIN/__pycache__/
